@@ -1,6 +1,6 @@
 raw_data/
-
-# Byte-compiled / optimized / DLL files
+write_data/
+i Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
